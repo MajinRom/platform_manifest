@@ -156,8 +156,10 @@
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" />
   <project path="external/libmpeg2" name="platform/external/libmpeg2" groups="pdk" />
   <project path="external/libmtp" name="platform/external/libmtp" groups="pdk-cw-fs,pdk-fs" />
+  <project path="external/libnetfilter_conntrack" name="SlimRoms/android_external_libnetfilter_conntrack" remote="github" revision="mm6.0" />
   <project path="external/libnfc-nci" name="SlimRoms/android_external_libnfc-nci" remote="github" revision="mm6.0" />
   <project path="external/libnfc-nxp" name="SlimRoms/android_external_libnfc-nxp" remote="github" revision="mm6.0" />
+  <project path="external/libnfnetlink" name="SlimRoms/android_external_libnfnetlink" remote="github" revision="mm6.0" />
   <project path="external/libnl" name="platform/external/libnl" groups="pdk" />
   <project path="external/libogg" name="platform/external/libogg" groups="pdk" />
   <project path="external/libopus" name="platform/external/libopus" groups="pdk" />
@@ -291,6 +293,7 @@
   <project path="frameworks/opt/net/wifi" name="SlimRoms/frameworks_opt_net_wifi" remote="github" revision="mm6.0" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/opt/slim" name="SlimRoms/frameworks_opt_slim" remote="github" revision="mm6.0" />
   <project path="frameworks/opt/telephony" name="SlimRoms/frameworks_opt_telephony" remote="github" revision="mm6.0" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs,pdk-fs" />
